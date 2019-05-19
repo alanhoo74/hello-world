@@ -2,3 +2,4 @@ this is my first git project in hub.
 add new
 add another new
 master edit
+error fixed
